@@ -1,0 +1,31 @@
+2023/09/05-18:09:25.009 179c Reusing MANIFEST C:\Users\user\Desktop\wa_tidieeafiq\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/05-18:09:25.010 179c Recovering log #341
+2023/09/05-18:09:25.016 179c Reusing old log C:\Users\user\Desktop\wa_tidieeafiq\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000341.log 
+2023/09/05-18:09:58.358 3a3c Level-0 table #355: started
+2023/09/05-18:09:58.409 3a3c Level-0 table #355: 1054471 bytes OK
+2023/09/05-18:09:58.412 3a3c Delete type=0 #341
+2023/09/05-18:10:00.867 3a3c Compacting 1@1 + 11@2 files
+2023/09/05-18:10:00.959 3a3c Generated table #356@1: 42666 keys, 2228434 bytes
+2023/09/05-18:10:01.011 3a3c Generated table #357@1: 2108 keys, 2151572 bytes
+2023/09/05-18:10:01.065 3a3c Generated table #358@1: 2117 keys, 2152992 bytes
+2023/09/05-18:10:01.126 3a3c Generated table #359@1: 3255 keys, 2165025 bytes
+2023/09/05-18:10:01.251 3a3c Generated table #360@1: 24726 keys, 2257910 bytes
+2023/09/05-18:10:01.354 3a3c Generated table #361@1: 19735 keys, 2217321 bytes
+2023/09/05-18:10:01.446 3a3c Generated table #362@1: 42684 keys, 2174776 bytes
+2023/09/05-18:10:01.731 3a3c Generated table #363@1: 102600 keys, 2255179 bytes
+2023/09/05-18:10:01.885 3a3c Generated table #364@1: 102730 keys, 2254281 bytes
+2023/09/05-18:10:01.905 3a3c Generated table #365@1: 14375 keys, 321481 bytes
+2023/09/05-18:10:01.905 3a3c Compacted 1@1 + 11@2 files => 20178971 bytes
+2023/09/05-18:10:01.906 3a3c compacted to: files[ 0 0 10 0 0 0 0 ]
+2023/09/05-18:10:01.907 3a3c Delete type=2 #340
+2023/09/05-18:10:01.907 3a3c Delete type=2 #343
+2023/09/05-18:10:01.907 3a3c Delete type=2 #344
+2023/09/05-18:10:01.907 3a3c Delete type=2 #345
+2023/09/05-18:10:01.907 3a3c Delete type=2 #346
+2023/09/05-18:10:01.907 3a3c Delete type=2 #347
+2023/09/05-18:10:01.907 3a3c Delete type=2 #348
+2023/09/05-18:10:01.907 3a3c Delete type=2 #349
+2023/09/05-18:10:01.907 3a3c Delete type=2 #350
+2023/09/05-18:10:01.907 3a3c Delete type=2 #351
+2023/09/05-18:10:01.907 3a3c Delete type=2 #352
+2023/09/05-18:10:01.907 3a3c Delete type=2 #355

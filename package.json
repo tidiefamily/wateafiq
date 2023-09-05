@@ -1,0 +1,25 @@
+{
+  "name": "wateafiq",
+  "version": "1.0.0",
+  "description": "project aplikasi wa",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer": "^21.1.1",
+    "whatsapp-web.js": "^1.21.1-alpha.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tidiefamily/wateafiq.git"
+  },
+  "author": "yuldi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tidiefamily/wateafiq/issues"
+  },
+  "homepage": "https://github.com/tidiefamily/wateafiq#readme"
+}
